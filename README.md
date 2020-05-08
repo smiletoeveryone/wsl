@@ -1,4 +1,4 @@
-# wsl
+# run ubuntu bash in your windows 10
 
 
 
