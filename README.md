@@ -8,7 +8,9 @@
 
     1. run PowerShell as administrator
     
+    
     ![](https://github.com/smiletoeveryone/wsl/blob/master/How-to-open-an-elevated-PowerShell-prompt.jpg)
+
 
     right click on winx menu >> search >> type powershell >> run as administrator
 
