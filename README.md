@@ -33,3 +33,21 @@
 
 
     5. done
+    
+#install jupyter notebook in WSL(Windows Subsystem for Linux) 
+
+
+    1. sudo apt update && upgrade
+    
+    2. sudo apt install python3 python3-pip ipython3
+    
+    3. sudo apt install python3-pip
+    
+    4. sudo pip3 install jupyter // install all the packages
+    
+    5. sudo pip3 install jupyter-notebook
+    
+    6. run the command "jupyter-notebook" in the terminal 
+    
+    7. done
+    
