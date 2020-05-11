@@ -1,6 +1,6 @@
 # run ubuntu bash in your windows 10
 
-！【】
+！【】https://github.com/smiletoeveryone/wsl/blob/master/How-to-open-an-elevated-PowerShell-prompt.jpg
 
 
 
