@@ -1,5 +1,7 @@
 # run ubuntu bash in your windows 10
 
+！【】
+
 
 
 #Enable WSL(Windows Subsystem for Linux) in windows 10
