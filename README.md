@@ -1,12 +1,14 @@
 # run ubuntu bash in your windows 10
 
-![](https://github.com/smiletoeveryone/wsl/blob/master/How-to-open-an-elevated-PowerShell-prompt.jpg)
+
 
 
 
 #Enable WSL(Windows Subsystem for Linux) in windows 10
 
     1. run PowerShell as administrator
+    
+    ![](https://github.com/smiletoeveryone/wsl/blob/master/How-to-open-an-elevated-PowerShell-prompt.jpg)
 
     right click on winx menu >> search >> type powershell >> run as administrator
 
