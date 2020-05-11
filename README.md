@@ -1,6 +1,9 @@
 # run ubuntu bash in your windows 10
 
  ![](https://github.com/smiletoeveryone/wsl/blob/master/ubuntustore.png)
+ 
+ run PowerShell as administrator
+ 
  ![](https://github.com/smiletoeveryone/wsl/blob/master/How-to-open-an-elevated-PowerShell-prompt.jpg)
 
 
