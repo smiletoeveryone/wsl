@@ -22,7 +22,7 @@
 
     get into Microsoft Store >> search bar >> type ubuntu
 
-    a1. choice what edition of ubuntu you like
+    a1. choice what edition of ubuntu you like // Ubuntu 18.04 LTS is recommended.
 
     a2. install it
 
